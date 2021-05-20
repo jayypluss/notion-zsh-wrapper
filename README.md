@@ -2,7 +2,10 @@
 
 ZSH Wrapper for Notion Developers API.
 
-_For more info: https://developers.notion.com_
+For more info check the [Notion Developers](https://developers.notion.com) website. 
+
+And for instructions on how to get an Notion API Key, [check here](https://developers.notion.com/docs).
+
 
 
 ### Usage: 
