@@ -1,4 +1,4 @@
-# notion-zsh-wrapper
+# Notion ZSH Wrapper
 
 ZSH Wrapper for Notion Developers API.
 
