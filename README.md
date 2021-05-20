@@ -16,4 +16,13 @@ retrieve_database
 retrieve_page
 create_page
 ```
-  
+
+## create_page
+
+#### Usage: 
+
+If you're creating a page inside a Database, use `./notion.zsh create_page <db_column_name> <new_page_name> -d <parent_database_id> [args*]`
+
+If you're creating a page inside another Page, use `./notion.zsh create_page <new_page_name> -p <parent_page_id> [args*]`
+
+_* Check help: -k is always needed._
